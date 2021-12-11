@@ -1,0 +1,9 @@
+{
+  "firstName": "Darth",
+  "lastName": "Vader",
+  "courseBook": {
+    "id": 1,
+    "title": "The Art of Computer Programming",
+    "author": "Donald Knuth"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "firstName": "Darth",
+  "lastName": "Vader",
+  "age": 15,
+  "groupName": "science",
+  "sheetId": 666,
+  "courseBook": {
+    "id": 1,
+    "title": "The Art of Computer Programming",
+    "author": "Donald Knuth"
+  }
+}

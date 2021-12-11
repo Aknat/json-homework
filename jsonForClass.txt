@@ -1,0 +1,7 @@
+{
+  "firstName": "Darth",
+  "lastName": "Vader",
+  "age": 666,
+  "someData": "trololo",
+  "isBadGuy": true
+}
